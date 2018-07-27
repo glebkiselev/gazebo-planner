@@ -1,0 +1,6 @@
+gym==0.9.7
+Lasagne==0.2.dev1
+
+-e git+https://github.com/ermekaitygulov/gym-crumb.git@cc2f5f9c44aa13aefcf6c89af955baa261fcc4bd#egg=gym_crumb&subdirectory=Gym-crumb
+map-planner==2.0.0
+-e git://github.com/Theano/Theano.git@9212db21af3f64c9f1a9e1fdc3e71c0ab55a6a95#egg=Theano
